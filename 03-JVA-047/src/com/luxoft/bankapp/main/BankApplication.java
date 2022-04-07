@@ -1,5 +1,6 @@
-package com.luxoft.bankapp.domain;
+package com.luxoft.bankapp.main;
 
+import com.luxoft.bankapp.domain.*;
 import com.luxoft.bankapp.exceptions.NotEnoughFundsException;
 import com.luxoft.bankapp.exceptions.OverdraftLimitExceededException;
 import com.luxoft.bankapp.service.BankService;
